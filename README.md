@@ -1,4 +1,4 @@
-# SOLID_principles
+# SOLID Principles
 
 * This provides examples of solid principles. 
 * SOLID is a 5-way of best practices which should be followed when software development. 
