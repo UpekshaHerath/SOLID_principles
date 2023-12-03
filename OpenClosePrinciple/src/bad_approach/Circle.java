@@ -6,7 +6,6 @@ package bad_approach;
  * this may violate the open close principle.
  */
 public class Circle {
-
     void drawCircle() {
         System.out.println("Draw the circle");
     }
